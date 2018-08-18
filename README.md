@@ -20,5 +20,6 @@ Professors:
  - Isidoro Couvertier
  
 Assistants: 
- - Victor E. Lugo Velez
+ - Victor E. Lugo Velez - victor.lugo3@upr.edu
+
  
